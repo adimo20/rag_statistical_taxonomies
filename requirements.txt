@@ -1,0 +1,8 @@
+dspy
+mlflow
+chromadb
+sentence-transformers
+python-dotenv
+scikit-learn
+pandas
+torch
